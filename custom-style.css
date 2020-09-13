@@ -1,16 +1,15 @@
-@font-face {
-    font-family: 'Cereal Book';
-    font-style: normal;
-    font-weight: normal;
-    src: url('https://res.cloudinary.com/strongholdz/raw/upload/v1599998759/AirbnbCerealBook_cf6yqz.woff') format('woff');
-    font-display: swap;
-}
-
 body {
   font-family: "Cereal Book" !important;
+  font-size: 18px;
+  line-height: 1.4;
 }
 
-/* sidebar post */
-.figure-new-1 { /* conflict di homepage */
-    width: 100% !important;
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Cereal Bold" !important;
+}
+
+.post_item h1 {
+    font-size: 36px;
+    line-height: 1.2;
+    margin-bottom: 15px;
 }
