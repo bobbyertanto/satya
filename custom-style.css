@@ -1,4 +1,8 @@
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+}
+
 /* sidebar post */
-.figure-new-1 {
+.figure-new-1 { /* conflict di homepage */
     width: 100% !important;
 }
