@@ -1,5 +1,13 @@
+@font-face {
+    font-family: 'Cereal Book';
+    font-style: normal;
+    font-weight: normal;
+    src: url('https://res.cloudinary.com/strongholdz/raw/upload/v1599998759/AirbnbCerealBook_cf6yqz.woff') format('woff');
+    font-display: swap;
+}
+
 body {
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font-family: Cereal Book;
 }
 
 /* sidebar post */
